@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+langchain
+langchain_community
+langchain_classic
+langchain_openai
+langchain_core
+tavily_python
+python_dotenv
+openai
+ipykernel
+pydantic
